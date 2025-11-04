@@ -1,0 +1,4 @@
+My Project Structure:
+- form.html : Frontend form for user input
+- style.css : Styling for the form
+- app.js : Express server file handling form submissions

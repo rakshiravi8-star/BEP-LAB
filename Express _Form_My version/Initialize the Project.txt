@@ -1,0 +1,4 @@
+mkdir express-form-app
+cd express-form-app
+npm init -y
+npm install express body-parser
